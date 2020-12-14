@@ -18,4 +18,4 @@ This year in August I participated a Hackathon organized by Recode and I got to 
 
 ![Leandro Soares github stats](https://github-readme-stats.vercel.app/api?username=LeandroSoares31&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandrosoares31_icons=true&theme=bear)](https://github.com/leandrosoares31/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSoares31_icons=true&theme=bear)](https://github.com/leandrosoares31/github-readme-stats)
