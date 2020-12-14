@@ -17,3 +17,5 @@ This year in August I participated a Hackathon organized by Recode and I got to 
 - 📫 Find me here: LinkedIn: https://www.linkedin.com/in/leandro-soares-10671186/
 
 ![Leandro Soares github stats](https://github-readme-stats.vercel.app/api?username=LeandroSoares31&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSoares31&layout=bear)](https://github.com/leandrosoares31/github-readme-stats)
