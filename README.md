@@ -21,4 +21,4 @@ This year in August I participated a Hackathon organized by Recode and I got to 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeandroSoares31&layout=compact/?username=LeandroSoares31&show_icons=true&theme=bear)](https://github.com/leandrosoares31/github-readme-stats)
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Emerson stats](https://github-readme-stats.vercel.app/api?username=emersonope&show_icons=true&theme=radical)
