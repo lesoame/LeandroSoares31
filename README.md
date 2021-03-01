@@ -15,7 +15,7 @@ In 2020 August I participated a Hackathon organized by Recode and I got to pass 
 - 🌱 Below are some of technologies I have knowledge:
 
 - HTML5
-- CSS
+- CSS3
 - JavaScript
 - Bootstrap
 - PHP
