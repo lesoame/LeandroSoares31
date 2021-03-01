@@ -10,9 +10,21 @@ I am graduated in Mechanical Engineering and post graduated in Quality Engineeri
 
 This year in August I participated a Hackathon organized by Recode and I got to pass the selection process to take a Full Stack developer course. Today my focus on studies is totally in software development because I intend to work as Full Stack.
 
-- 🔭 I’m currently working on Sales engineering.
+- 🔭 I’m looking for a new position in programming area.
 
-- 🌱 Currently learning: HTML, CSS/Bootstrap, JavaScript, PHP and ReactJS.
+- 🌱 Below are some of technologies I have knowledge:
+
+#. HTML5
+#. CSS
+#. JavaScript
+#. Bootstrap
+#. PHP
+#. MySQL and NoSQL (MongoDB)
+#. ReactJS and React Native
+#. NodeJS
+#. Python
+#. Agile Methods
+#. DevOps
 
 - 📫 Find me here: LinkedIn: https://www.linkedin.com/in/leandro-soares-10671186/
 
