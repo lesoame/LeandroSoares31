@@ -14,17 +14,17 @@ This year in August I participated a Hackathon organized by Recode and I got to 
 
 - 🌱 Below are some of technologies I have knowledge:
 
-. HTML5
-. CSS
-. JavaScript
-. Bootstrap
-. PHP
-. MySQL and NoSQL (MongoDB)
-. ReactJS and React Native
-. NodeJS
-. Python
-. Agile Methods
-. DevOps
+- HTML5
+- CSS
+- JavaScript
+- Bootstrap
+- PHP
+- MySQL and NoSQL (MongoDB)
+- ReactJS and React Native
+- NodeJS
+- Python
+- Agile Methods
+- DevOps
 
 - 📫 Find me here: LinkedIn: https://www.linkedin.com/in/leandro-soares-10671186/
 
